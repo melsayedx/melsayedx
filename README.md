@@ -26,7 +26,7 @@ Scaled ingestion from **6,071 to 17,255 requests/second—2.8× higher throughpu
 
 Rewriting the consumer in **C++** delivered another **2.7× improvement** while reducing peak CPU usage by **75%** and memory consumption by **80%**.
 
-Built with Node.js, C++, Redis Streams, ClickHouse, gRPC, OpenTelemetry, Jaeger, and Docker.
+Built with Node.js, C++, Redis Streams, ClickHouse, gRPC, OpenTelemetry, and Docker.
 
 ---
 
@@ -67,7 +67,7 @@ PostgreSQL · PostGIS · Redis · Valkey · ClickHouse
 AWS ECS/Fargate · RDS · S3 · SES · Cloudflare R2 · Docker · GitHub Actions
 
 **Observability**  
-OpenTelemetry · Jaeger
+OpenTelemetry
 
 ---
 
