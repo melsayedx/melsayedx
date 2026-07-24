@@ -32,7 +32,7 @@ Built with Node.js, C++, Redis Streams, ClickHouse, gRPC, OpenTelemetry, Jaeger,
 
 ## Production systems
 
-### [Publishing SaaS](https://YOUR-LIVE-URL)
+### Publishing SaaS
 
 Live, multi-tenant, Arabic-first publishing platform built with Django, Django REST Framework, and PostgreSQL.
 
